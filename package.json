@@ -1,0 +1,23 @@
+{
+  "name": "NSS-Node-Exercises-12",
+  "version": "1.0.0",
+  "description": "NSS Node.JS Exercises: 12 - SQLite Creating a Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahmorris926/NSS-Node-Exercises-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahmorris926/NSS-Node-Exercises-12/issues"
+  },
+  "homepage": "https://github.com/sarahmorris926/NSS-Node-Exercises-12#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
